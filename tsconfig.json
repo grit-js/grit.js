@@ -1,0 +1,8 @@
+{
+  "files": [],
+  "references": [
+    { "path": "packages/orm" },
+    { "path": "packages/mysql-connector" },
+    { "path": "packages/mongodb-connector" }
+  ]
+}

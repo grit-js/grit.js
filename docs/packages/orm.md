@@ -1,9 +1,5 @@
 # @gritjs/orm
 
-A lightweight, type-safe ORM for Node.js.
+<!--@include: ../../packages/orm/docs/intro.md-->
 
-## Installation
-
-```bash
-npm install @gritjs/orm
-```
+<!--@include: ../../packages/orm/docs/api.md-->

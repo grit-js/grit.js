@@ -2,7 +2,8 @@
   "name": "gritjs",
   "private": true,
   "workspaces": [
-    "packages/*"
+    "packages/*",
+    "docs"
   ],
   "scripts": {
     "typecheck": "tsc --build",
